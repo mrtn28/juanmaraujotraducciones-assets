@@ -168,4 +168,17 @@
     "note": "",
     "order": 0
   }
+   {
+    "id": 14,
+    "name": "Goons: Legends & Mayhem",
+    "genres": ["Arcade", "Sports", "Family"],
+    "year": "2023",
+    "image": "",
+    "description": "",
+    "groups": ["Translation"],
+    "words": "+11k",
+    "editor": "Firestoke Games",
+    "note": "",
+    "order": 0
+  },
 ]
