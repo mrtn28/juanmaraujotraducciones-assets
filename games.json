@@ -46,7 +46,7 @@
     "image": "inertial-drift",
     "description": "",
     "groups": ["Translation"],
-    "words": "",
+    "words": "20k",
     "editor": "PQube Games L.T.D.",
     "note": "",
     "order": 0
