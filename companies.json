@@ -1,3 +1,10 @@
 [
-  "pqube"
+  {
+    "name": "PQube Games L.T.D.",
+    "image": "pqube"
+  },
+  {
+    "name": "Firestoke Games",
+    "image": "firestoke"
+  }
 ]
