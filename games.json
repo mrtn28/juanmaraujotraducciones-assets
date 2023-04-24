@@ -162,7 +162,7 @@
     "year": "2023",
     "image": "valthirian-arc-hero-school",
     "description": "",
-    "groups": ["Translation", "Proofreading"],
+    "groups": ["Translation", "Proofreading", "LQA"],
     "words": "Almost 100k",
     "editor": "PQube Games L.T.D.",
     "note": "",
