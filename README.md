@@ -4,7 +4,11 @@
 
 - ### Game
 
-  |             |                                                       |
+  ```ts
+  type Group = 'All' | 'Translation' | 'Proofreading' | 'LQA'
+  ```
+
+  | Property    | Type                                                  |
   | ----------- | ----------------------------------------------------- |
   | id          | number                                                |
   | name        | string                                                |
@@ -12,7 +16,7 @@
   | year        | string                                                |
   | image       | string                                                |
   | description | string                                                |
-  | groups      | ('All' \| 'Translation' \| 'Proofreading' \| 'LQA')[] |
+  | groups      | Group[]                                               |
   | words       | string                                                |
   | editor      | string                                                |
   | note        | string                                                |
@@ -22,16 +26,16 @@
 
 - Company
 
-  |       |        |
-  | ----- | ------ |
-  | name  | string |
-  | image | string |
+  | Property | Type   |
+  | -------- | ------ |
+  | name     | string |
+  | image    | string |
 
 ## Achievements
 
 - ### Achievement
 
-  |             |        |
+  | Property    | Type   |
   | ----------- | ------ |
   | title       | string |
   | description | string |
