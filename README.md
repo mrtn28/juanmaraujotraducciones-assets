@@ -8,19 +8,19 @@
   type Group = 'All' | 'Translation' | 'Proofreading' | 'LQA'
   ```
 
-  | Property    | Type                                                  |
-  | ----------- | ----------------------------------------------------- |
-  | id          | number                                                |
-  | name        | string                                                |
-  | genres      | string[]                                              |
-  | year        | string                                                |
-  | image       | string                                                |
-  | description | string                                                |
-  | groups      | Group[]                                               |
-  | words       | string                                                |
-  | editor      | string                                                |
-  | note        | string                                                |
-  | order       | number                                                |
+  | Property    | Type     |
+  | ----------- | ---------|
+  | id          | number   |
+  | name        | string   |
+  | genres      | string[] |
+  | year        | string   |
+  | image       | string   |
+  | description | string   |
+  | groups      | Group[]  |
+  | words       | string   |
+  | editor      | string   |
+  | note        | string   |
+  | order       | number   |
 
 ## Companies
 
