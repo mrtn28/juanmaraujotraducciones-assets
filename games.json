@@ -180,5 +180,17 @@
     "editor": "Firestoke Games",
     "note": "",
     "order": 0
-  }
+  },
+  {
+    "id": 15,
+    "name": "Kaku Ancient Seal",
+    "genres": ["Adventure", "Action", "RPG"],
+    "year": "2023",
+    "image": "Kaku-Ancient-Seal",
+    "description": "",
+    "groups": ["Translation", "Proofreading", "LQA"],
+    "words": "+34k",
+    "editor": "BINGOBELL",
+    "note": "",
+    "order": 0
 ]
