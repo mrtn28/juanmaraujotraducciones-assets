@@ -184,9 +184,9 @@
   {
     "id": 15,
     "name": "Bio Prototype",
-    "genres": ["Acción", "Indie"],
+    "genres": ["Action", "Indie"],
     "year": "2023",
-    "image": "Bio Prototype",
+    "image": "Bio-Prototype",
     "description": "",
     "groups": ["Translation", "Proofreading", "LQA"],
     "words": "1k",
