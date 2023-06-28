@@ -1,12 +1,18 @@
 [
   {
-    "title": "Polifacético",
-    "description": "Traduce juegos de más de 10 géneros diferentes"
+    "title": "First steps",
+    "description": "Translate your first project"
   }, {
-    "title": "Uno para todos y todos para uno",
-    "description": "Colabora con múltiples empresas y profesionales del mismo sector"
+    "title": "Experienced",
+    "description": "Translate more than 15 projects"
   }, {
-    "title": "En la élite",
-    "description": "Trabaja mano a mano con empresas de renombre en el sector"
+    "title": "Reliable",
+    "description": "Translate more than one project for the same client"
+  }, {
+    "title": "Multifaceted",
+    "description": "Translate more than 5 different genres of video games"
+  }, {
+    "title": "Perfectionist",
+    "description": "Improve the quality of 5 games by detecting and reporting all kind of bugs"
   }
 ]
