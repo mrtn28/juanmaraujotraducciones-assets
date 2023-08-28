@@ -206,5 +206,18 @@
     "editor": "BINGOBELL",
     "note": "",
     "order": 0
+    },
+  {
+    "id": 16,
+    "name": "Pocket Bravery",
+    "genres": ["Fighting", "Action", "2D"],
+    "year": "2023",
+    "image": "Pocket-Bravery",
+    "description": "",
+    "groups": ["Translation"],
+    "words": "+35k",
+    "editor": "PQube",
+    "note": "",
+    "order": 0
     }
 ]
