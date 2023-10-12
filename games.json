@@ -227,7 +227,7 @@
     "year": "2023",
     "image": "Bzzzt",
     "description": "",
-    "groups": ["Translation"],
+    "groups": ["Translation", "Proofreading", "LQA"],
     "words": "3k",
     "editor": "CINEMAX, s.r.o.",
     "note": "",
