@@ -219,5 +219,18 @@
     "editor": "PQube",
     "note": "",
     "order": 0
+    },
+  {
+    "id": 18,
+    "name": "Bzzzt",
+    "genres": ["Platform", "2D"],
+    "year": "2023",
+    "image": "Bzzzt",
+    "description": "",
+    "groups": ["Translation"],
+    "words": "3k",
+    "editor": "CINEMAX, s.r.o.",
+    "note": "",
+    "order": 0
     }
 ]
