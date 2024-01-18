@@ -233,4 +233,18 @@
     "note": "",
     "order": 0
     }
+  [
+  {
+    "id": 19,
+    "name": "The Planne Effect",
+    "genres": ["Adventure"],
+    "year": "2021",
+    "image": "The_Plane_Effect",
+    "description": "",
+    "groups": ["LQA"],
+    "words": "-",
+    "editor": "PQube Games L.T.D.",
+    "note": "",
+    "order": 0
+  },
 ]
