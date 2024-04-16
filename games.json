@@ -258,5 +258,18 @@
     "editor": "ZigZaGame Inc.",
     "note": "Prologue + Chapter 1",
     "order": 0
-  }
+  },
+  {
+    "id": 21,
+    "name": "Hauntii",
+    "genres": ["Twin stick shooter", "Adventure"],
+    "year": "2024",
+    "image": "Hauntii",
+    "description": "",
+    "groups": ["Translation"],
+    "words": "8k",
+    "editor": "Firestoke Games",
+    "note": "",
+    "order": 0
+    }
 ]
