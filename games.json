@@ -245,5 +245,18 @@
     "editor": "PQube Games L.T.D.",
     "note": "I participated as beta tester",
     "order": 0
+  },
+  {
+    "id": 20,
+    "name": "Tokyo Debunker",
+    "genres": ["Visual Novel"],
+    "year": "2024",
+    "image": "Tokyo-Debunker.png",
+    "description": "",
+    "groups": ["Translation"],
+    "words": "43k",
+    "editor": "ZigZaGame Inc.",
+    "note": "Prologue + Chapter 1",
+    "order": 0
   }
 ]
