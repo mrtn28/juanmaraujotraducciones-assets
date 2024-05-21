@@ -271,8 +271,8 @@
     "editor": "Firestoke Games",
     "note": "",
     "order": 0
-    },
-    {
+  },
+  {
     "id": 22,
     "name": "Astlibra Revision",
     "genres": ["ARPG", "Adventure", "2D"],
@@ -284,5 +284,18 @@
     "editor": "WhisperGames",
     "note": "",
     "order": 0
-    }
+  },
+  {
+    "id": 22,
+    "name": "Astlibra Gaiden",
+    "genres": ["ARPG", "Adventure", "2D"],
+    "year": "2024",
+    "image": "Astlibra-Revision-Gaiden",
+    "description": "",
+    "groups": ["Translation", "Proofreading", "LQA"],
+    "words": "30k",
+    "editor": "WhisperGames",
+    "note": "",
+    "order": 0
+  }
 ]
