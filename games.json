@@ -323,5 +323,18 @@
     "editor": "PQube Games L.T.D.",
     "note": "",
     "order": 25
+  },
+  {
+      "id": 26,
+    "name": "MilthmS",
+    "genres": ["Visual Novel", "Music", "Rhythm"],
+    "year": "2024",
+    "image": "Milthm",
+    "description": "",
+    "groups": ["Translation", "Proofreading", "LQA"],
+    "words": "20k",
+    "editor": "Morizero",
+    "note": "",
+    "order": 26
   }
 ]
