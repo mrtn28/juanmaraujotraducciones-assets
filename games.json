@@ -336,5 +336,18 @@
     "editor": "Morizero",
     "note": "",
     "order": 26
-  }
+  },
+  {
+    "id": 19,
+    "name": "The Nameless Slay Dragon",
+    "genres": ["Adventure, RPG, Turn Based combat"],
+    "year": "2024",
+    "image": "The-Nameless-Slay-Dragon",
+    "description": "",
+    "groups": ["LQA"],
+    "words": "",
+    "editor": "WhisperGames",
+    "note": "I participated as beta tester",
+    "order": 27
+    }
 ]
