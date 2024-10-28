@@ -349,5 +349,18 @@
     "editor": "WhisperGames",
     "note": "I participated as beta tester",
     "order": 27
+    },
+    {
+    "id": 28,
+    "name": "When The Light Dies",
+    "genres": ["Action", "Indie"],
+    "year": "2024",
+    "image": "When-The-Light-Dies",
+    "description": "",
+    "groups": ["Translation", "Proofreading", "LQA"],
+    "words": "5k",
+    "editor": "PQube Games L.T.D.",
+    "note": "",
+    "order": 28
     }
 ]
