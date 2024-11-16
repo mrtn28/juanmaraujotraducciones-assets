@@ -362,5 +362,18 @@
     "editor": "PQube Games L.T.D.",
     "note": "",
     "order": 28
-    }
+    },
+    {
+    "id": 29,
+    "name": "Bioweaver",
+    "genres": ["Action", "Indie"],
+    "year": "2024",
+    "image": "Bioweaver",
+    "description": "",
+    "groups": ["Translation", "Proofreading", "LQA"],
+    "words": "4k",
+    "editor": "PQube Games L.T.D.",
+    "note": "I wasn't in charge of the whole translation",
+    "order": 29
+  }
 ]
