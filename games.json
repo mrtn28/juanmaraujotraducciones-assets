@@ -375,5 +375,18 @@
     "editor": "PQube Games L.T.D.",
     "note": "I wasn't in charge of the whole translation",
     "order": 29
+  },
+      {
+    "id": 30,
+    "name": "Lunacid",
+    "genres": ["Action", "Indie", "Dungeon"],
+    "year": "2024",
+    "image": "Lunacid-cover",
+    "description": "",
+    "groups": ["Translation", "Proofreading", "LQA"],
+    "words": "4k",
+    "editor": "Kira LLC // Critical Reflex",
+    "note": "",
+    "order": 29
   }
 ]
