@@ -332,9 +332,9 @@
     "image": "Milthm",
     "description": "",
     "groups": ["Translation", "Proofreading", "LQA"],
-    "words": "20k",
+    "words": "20k + 7k",
     "editor": "Morizero",
-    "note": "",
+    "note": "New text from updates",
     "order": 26
   },
   {
