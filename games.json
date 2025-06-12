@@ -393,13 +393,13 @@
     "id": 31,
     "name": "Re;fresh",
     "genres": ["Platform", "Indie", "Cozy"],
-    "year": "2024",
+    "year": "2025",
     "image": "Re;fresh",
     "description": "",
     "groups": ["Translation", "Proofreading", "LQA"],
     "words": "11k",
     "editor": "Merge Conflict Studio",
-    "note": "",
+    "note": "The Spanish text was added in 2025",
     "order": 30
   }
 ]
