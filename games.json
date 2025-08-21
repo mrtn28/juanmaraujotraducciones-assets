@@ -401,5 +401,18 @@
     "editor": "Merge Conflict Studio",
     "note": "The Spanish text was added in 2025",
     "order": 30
+  },
+      {
+    "id": 32,
+    "name": "Discounty",
+    "genres": ["Management", "Indie", "Cozy"],
+    "year": "2025",
+    "image": "Discounty",
+    "description": "",
+    "groups": ["Translation", "Proofreading"],
+    "words": "87k",
+    "editor": "PQube Games L.T.D.",
+    "note": "",
+    "order": 31
   }
 ]
