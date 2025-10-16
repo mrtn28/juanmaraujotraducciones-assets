@@ -427,5 +427,18 @@
     "editor": "YCJY Games",
     "note": "",
     "order": 32
+  },
+        {
+    "id": 34,
+    "name": "Tormented Souls II",
+    "genres": ["Survival Horror"],
+    "year": "2025",
+    "image": "Tormented Souls II",
+    "description": "",
+    "groups": ["Translation", "Proofreading", "LQA"],
+    "words": "24k",
+    "editor": "PQube Games L.T.D.",
+    "note": "",
+    "order": 33
   }
 ]
