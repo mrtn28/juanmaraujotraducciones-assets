@@ -440,5 +440,18 @@
     "editor": "PQube Games L.T.D.",
     "note": "",
     "order": 33
+},
+        {
+    "id": 35,
+    "name": "Love Eternal",
+    "genres": ["Platformer, graphic adventure"],
+    "year": "2026",
+    "image": "Love-Eternal-Portada",
+    "description": "",
+    "groups": ["Translation", "Proofreading", "LQA"],
+    "words": "10k",
+    "editor": "Ysbryd Games",
+    "note": "",
+    "order": 34
   }
 ]
