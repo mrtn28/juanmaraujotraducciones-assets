@@ -453,5 +453,18 @@
     "editor": "Ysbryd Games",
     "note": "",
     "order": 34
-  }
+  },
+          {
+    "id": 36,
+    "name": "Fortunegg",
+    "genres": ["Iddle, Clicker"],
+    "year": "2026",
+    "image": "Love-Eternal-Portada",
+    "description": "",
+    "groups": ["Translation", "Proofreading", "LQA"],
+    "words": "9",
+    "editor": "Twisted Games",
+    "note": "I made this game with mrtn28",
+    "order": 35
+   }
 ]
