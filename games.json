@@ -467,4 +467,18 @@
     "note": "I made this game with mrtn28",
     "order": 35
    }
+    }
+          {
+    "id": 37,
+    "name": "Burden Street Station",
+    "genres": ["Adventure, Visual Novel"],
+    "year": "2026",
+    "image": "Burden-Street-Station",
+    "description": "",
+    "groups": ["Translation", "Proofreading", "LQA"],
+    "words": "31k",
+    "editor": "Critical Reflex",
+    "note": "",
+    "order": 36
+   }
 ]
