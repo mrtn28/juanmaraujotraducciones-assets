@@ -406,13 +406,13 @@
     "id": 32,
     "name": "Discounty",
     "genres": ["Management", "Indie", "Cozy"],
-    "year": "2025",
+    "year": "2025 - 2026",
     "image": "Discounty",
     "description": "",
     "groups": ["Translation", "Proofreading"],
-    "words": "87k",
+    "words": "135k",
     "editor": "PQube Games L.T.D.",
-    "note": "",
+    "note": "Includes 2025 and 2026 content updates",
     "order": 31
   },
       {
