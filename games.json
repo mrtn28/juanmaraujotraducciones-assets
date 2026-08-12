@@ -480,4 +480,18 @@
     "note": "",
     "order": 36
    }
+     },
+          {
+    "id": 38,
+    "name": "Panzer Knights: Commander's Edition",
+    "genres": ["Tanks, Simulator"],
+    "year": "2026",
+    "image": "Panzer-Knights",
+    "description": "",
+    "groups": ["Translation", "Proofreading"],
+    "words": "22k",
+    "editor": "PQube Games L.T.D.",
+    "note": "",
+    "order": 37
+   }
 ]
