@@ -492,5 +492,18 @@
     "editor": "PQube Games L.T.D.",
     "note": "",
     "order": 37
-   }
+   },
+            {
+    "id": 39,
+    "name": "The Alighieri Circle: Dante's Bloodline",
+    "genres": ["Adventure, Terror, Puzzle"],
+    "year": "2026",
+    "image": "Dante",
+    "description": "",
+    "groups": ["Proofreading"],
+    "words": "12k",
+    "editor": "Entalto Publishing",
+    "note": "",
+    "order": 38
+ {
 ]
