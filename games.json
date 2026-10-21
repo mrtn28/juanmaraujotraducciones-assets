@@ -500,10 +500,24 @@
     "year": "2026",
     "image": "Dante",
     "description": "",
-    "groups": ["Proofreading"],
+    "groups": ["Translation", "Proofreading", "LQA"],
     "words": "12k",
     "editor": "Entalto Publishing",
     "note": "",
     "order": 38
+                 },
+              {
+    "id": 40,
+    "name": "Cucina Stellata",
+    "genres": ["Cooking, Terror, Retro"],
+    "year": "2026",
+    "image": "Cucina",
+    "description": "",
+    "groups": ["Translation", "Proofreading", "LQA"],
+    "words": "4k",
+    "editor": "Critical Reflex",
+    "note": "",
+    "order": 39
                  }
+  
 ]
