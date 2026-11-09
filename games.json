@@ -518,6 +518,19 @@
     "editor": "Critical Reflex",
     "note": "",
     "order": 39
+                 },
+  {
+    "id": 41,
+    "name": "Tanuki: Pon's Summer",
+    "genres": ["Adventure, Arcade, Cozy"],
+    "year": "2026",
+    "image": "Tanuki",
+    "description": "",
+    "groups": ["Translation", "Proofreading", "LQA"],
+    "words": "44k",
+    "editor": "Critical Reflex",
+    "note": "",
+    "order": 40
                  }
   
 ]
